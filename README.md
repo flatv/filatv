@@ -2,7 +2,7 @@
             
 # Hi there, I'm Andrey
      
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=24&duration=3000&pause=500&color=F7970E&center=true&multiline=true&repeat=false&width=435&height=80&lines=Java+developer;Functional+enjoyer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=24&duration=3000&pause=500&color=F7970E&center=true&multiline=true&repeat=false&width=435&height=80&lines=Java+developer;)](https://git.io/typing-svg)
   
 </div>
 
